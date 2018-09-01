@@ -1,7 +1,9 @@
 - ## perl
-    - [ ] learn perl  
+    - [x] perl basics
+    - [x] array / hashes  
     - [ ] grep
     - [ ] map
+    - [ ] perl OO    
     - [ ] mojo
 
 - ## vi(m)
