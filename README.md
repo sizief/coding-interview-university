@@ -1,14 +1,14 @@
 - ## perl
     - [x] perl basics
     - [x] array / hashes  
-    - [ ] grep
+    - [x] grep
     - [ ] map
     - [ ] perl OO    
     - [ ] mojo
 
 - ## vi(m)
-    - Familiarize yourself with a unix-based code editor
-    - vi(m):
+    - [x] Familiarize yourself with a unix-based code editor
+    - [x] vi(m):
         - [Editing With vim 01 - Installation, Setup, and The Modes (video)](https://www.youtube.com/watch?v=5givLEMcINQ&index=1&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr)
         - [VIM Adventures](http://vim-adventures.com/)
         - set of 4 videos:
@@ -25,8 +25,8 @@
     - I filled in the list below from good tools.
     - [x] bash
     - [x] cat
-    - [ ] grep
-    - [ ] sed
+    - [x] grep
+    - [x] sed
     - [ ] awk
     - [x] curl or wget
     - [ ] sort
