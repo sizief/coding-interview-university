@@ -1,6 +1,8 @@
 - ## Ruby
-    - [x] array / hashes  
-    - [ ] map
+    - [x] array / hashes
+    - [ ] yield
+    - [ ] Proc / Lambda  
+    - [x] map
     - [ ] Ruby OO  
 
 - ## Interview questions
