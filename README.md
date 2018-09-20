@@ -23,10 +23,10 @@
     - [ ] [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/exams/)
 
 - ## TODO
-    - [ ] create ruby cheatsheet
+    - [x] create ruby cheatsheet
 
 - ## Everyday Kata
-    - [ ][September 20] id:    
+    - [x][September 20] count: 2 fundamental
     - [ ][September 21] id:    
     - [ ][September 22] id:    
     - [ ][September 23] id:    
