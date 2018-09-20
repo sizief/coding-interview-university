@@ -4,28 +4,30 @@
     - [ ] Ruby OO  
 
 - ## Interview questions
--   - [] Rails
--   - [] Git
--   - [] Docker
--
+    -  [ ] Rails
+    -  [ ] Git
+    -  [ ] Docker
+
 
 - ## Testing
--   - [] RSpec
--   - [] helpers
+    - [ ] RSpec
+    - [ ] helpers
 
 - ## Elixir
--   - [] Basics
+    - [ ] Basics
 
 - ## Khan Algorithms
--   - [] Binary search
--
--
--
+    - [ ] Binary search
+
+## TODO
+    - [ ] create ruby cheatsheet
+    -
+
 ## Everyday Kata
- - [][September 20]-id:    
- - [][September 21]-id:    
- - [][September 22]-id:    
- - [][September 23]-id:    
- - [][September 24]-id:    
- - [][September 25]-id:    
- - [][September 26]-id:    
+    - [ ][September 20] id:    
+    - [ ][September 21] id:    
+    - [ ][September 22] id:    
+    - [ ][September 23] id:    
+    - [ ][September 24] id:    
+    - [ ][September 25] id:    
+    - [ ][September 26]- id:    
