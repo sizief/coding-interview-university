@@ -16,18 +16,18 @@
 - ## Elixir
     - [ ] Basics
 
-- ## Khan Algorithms
-    - [ ] Binary search
+- ## Algorithms
+    - [ ] Khan academy
+    - [ ] [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/exams/)
 
-## TODO
+- ## TODO
     - [ ] create ruby cheatsheet
-    -
 
-## Everyday Kata
+- ## Everyday Kata
     - [ ][September 20] id:    
     - [ ][September 21] id:    
     - [ ][September 22] id:    
     - [ ][September 23] id:    
     - [ ][September 24] id:    
     - [ ][September 25] id:    
-    - [ ][September 26]- id:    
+    - [ ][September 26] id:    
