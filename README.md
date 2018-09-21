@@ -16,7 +16,7 @@
 
 
 - ## Testing
-    - [ ] RSpec
+    - [i] RSpec
     - [ ] factory girl
 
 - ## Elixir
@@ -31,7 +31,7 @@
 
 - ## Everyday Kata
     - [x][September 20] count: 2 fundamental
-    - [ ][September 21] id:    
+    - [x][September 21] count: 2 fundamental 
     - [ ][September 22] id:    
     - [ ][September 23] id:    
     - [ ][September 24] id:    
