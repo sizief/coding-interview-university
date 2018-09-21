@@ -1,10 +1,11 @@
 - ## Ruby
     - [x] array / hashes
-    - [ ] yield
-    - [ ] Proc / Lambda  
-    - [x] map
-    - [x] sort
-    - [ ] Ruby OO  
+    - [x] yield
+    - [x] Proc / Lambda  
+    - [x] map  
+    - [x] sort  
+    - [ ] accessing attributes  
+    - [ ] super  
 
 - ## Interview questions
     - Ruby  
@@ -16,7 +17,7 @@
 
 - ## Testing
     - [ ] RSpec
-    - [ ] helpers
+    - [ ] factory girl
 
 - ## Elixir
     - [ ] Basics
