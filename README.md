@@ -3,9 +3,12 @@
     - [ ] yield
     - [ ] Proc / Lambda  
     - [x] map
+    - [x] sort
     - [ ] Ruby OO  
 
 - ## Interview questions
+    - Ruby  
+      - [x] [Toptal](https://www.toptal.com/ruby/interview-questions)  
     -  [ ] Rails
     -  [ ] Git
     -  [ ] Docker
