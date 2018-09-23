@@ -18,9 +18,13 @@
 
 
 - ## Testing
+<<<<<<< HEAD
     -  RSpec
        [ ][Everyday Rails testing with Rspec](https://leanpub.com/everydayrailsrspec)
        [ ][Rails test prescription](https://www.amazon.com/Rails-Test-Prescriptions-Healthy-Codebase/dp/1680502506/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=1680502506&pd_rd_r=0b4207b4-bf47-11e8-9fc4-81eb294f983c&pd_rd_w=c9ZJi&pd_rd_wg=SVHwy&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=0bb14103-7f67-4c21-9b0b-31f42dc047e7&pf_rd_r=D5DKCE38R7A7EK5E7GBX&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D5DKCE38R7A7EK5E7GB)
+=======
+    - [i] RSpec
+>>>>>>> 3f2dcc156195b4c8f1ff95d9a5c850c39993491c
     - [ ] factory girl
 
 
@@ -33,7 +37,7 @@
 
 - ## Everyday Kata
     - [x][September 20] count: 2 fundamental
-    - [ ][September 21] id:    
+    - [x][September 21] count: 2 fundamental 
     - [ ][September 22] id:    
     - [ ][September 23] id:    
     - [ ][September 24] id:    
