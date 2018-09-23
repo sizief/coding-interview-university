@@ -34,8 +34,8 @@
 - ## Everyday Kata
     - [x][September 20] count: 2 fundamental
     - [x][September 21] count: 2 fundamental 
-    - [ ][September 22] id:    
-    - [ ][September 23] id:    
+    - [x][September 22] count: 3 
+    - [x][September 23] count: 1 and 6 on test platform
     - [ ][September 24] id:    
     - [ ][September 25] id:    
     - [ ][September 26] id:    
