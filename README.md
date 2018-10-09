@@ -1,3 +1,11 @@
+- ## projects
+    - [ ] split Sinatra app to multiple files
+    - [ ] prevent unknown kwys to process in shorten url
+    - [ ] check how to DRY more the input validation
+    - [ ] write a blog pot about slinky
+    - [ ] paricipate in Sinatra app open source project
+    - [ ] read about Rspec more
+
 - ## Ruby
     - [x] array / hashes
     - [x] yield
@@ -13,8 +21,8 @@
       - [x] [Toptal](https://www.toptal.com/ruby/interview-questions) 
       - [O] [afeld](https://github.com/afeld/rails_interview_questions)
     -  [ ] Rails
-    -  [ ] Git
-    -  [ ] Docker
+    -  [x] Git
+    -  [x] Docker
 
 
 - ## Testing
