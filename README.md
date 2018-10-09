@@ -39,3 +39,8 @@
     - [ ][September 24] id:    
     - [ ][September 25] id:    
     - [ ][September 26] id:    
+    
+
+### Future
+    - [ ][Turing](https://en.wikipedia.org/wiki/Turing_completeness)   
+    -
